@@ -1,3 +1,6 @@
+/* W3.CSS 2.75 by Jan Egil and Borge Refsnes */
+*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
+/* Extract from normalize.css by Nicolas Gallagher and Jonathan Neal git.io/normalize */
 html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{display:block}
 audio,canvas,video{display:inline-block;vertical-align:baseline}
@@ -194,7 +197,7 @@ input[type=checkbox].rv-check:disabled+.rv-validate,input[type=radio].rv-radio:d
 .rv-section{margin-top:16px!important;margin-bottom:16px!important}
 .rv-padding-tiny{padding:2px 4px!important}.rv-padding-small{padding:4px 8px!important}
 .rv-padding-medium,.rv-padding,.rv-form{padding:8px 16px!important}
-.rv-padding-large{padding:20px 24px!important}.rv-padding-xlarge{padding:16px 32px!important}
+.rv-padding-large{padding:12px 24px!important}.rv-padding-xlarge{padding:16px 32px!important}
 .rv-padding-xxlarge{padding:24px 48px!important}.rv-padding-jumbo{padding:32px 64px!important}
 .rv-padding-4{padding-top:4px!important;padding-bottom:4px!important}
 .rv-padding-8{padding-top:8px!important;padding-bottom:8px!important}
